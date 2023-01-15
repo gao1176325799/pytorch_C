@@ -1,0 +1,7 @@
+Source.cpp
+pyproject.toml
+setup.py
+pytorch_C.egg-info/PKG-INFO
+pytorch_C.egg-info/SOURCES.txt
+pytorch_C.egg-info/dependency_links.txt
+pytorch_C.egg-info/top_level.txt
